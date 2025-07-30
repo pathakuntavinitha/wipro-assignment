@@ -1,0 +1,16 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Node
+node_modules/
+build/
+
+# IDE & System
+*.log
+*.iml
+.idea/
+.vscode/
+.DS_Store
